@@ -1,0 +1,11 @@
+(sym_lib_table
+  (lib (name AP2112k)(type Legacy)(uri ${KIPRJMOD}/project_libs/AP2112k.lib)(options "")(descr ""))
+  (lib (name artemis)(type Legacy)(uri ${KIPRJMOD}/project_libs/artemis.lib)(options "")(descr ""))
+  (lib (name Audio_Mic)(type Legacy)(uri ${KIPRJMOD}/project_libs/Audio_Mic.lib)(options "")(descr ""))
+  (lib (name crystal_tiny)(type Legacy)(uri ${KIPRJMOD}/project_libs/crystal_tiny.lib)(options "")(descr ""))
+  (lib (name samd_hcc_mod)(type Legacy)(uri ${KIPRJMOD}/project_libs/samd_hcc_mod.lib)(options "")(descr ""))
+  (lib (name samd21_mod)(type Legacy)(uri ${KIPRJMOD}/project_libs/samd21_mod.lib)(options "")(descr ""))
+  (lib (name SPH0641LM4H-1)(type Legacy)(uri ${KIPRJMOD}/project_libs/SPH0641LM4H-1.lib)(options "")(descr ""))
+  (lib (name usb_micro)(type Legacy)(uri ${KIPRJMOD}/project_libs/usb_micro.lib)(options "")(descr ""))
+  (lib (name wireless_sensor-rescue)(type Legacy)(uri ${KIPRJMOD}/wireless_sensor-rescue.lib)(options "")(descr ""))
+)

@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name pixel-rescue)(type Legacy)(uri ${KIPRJMOD}/pixel-rescue.lib)(options "")(descr ""))
+)

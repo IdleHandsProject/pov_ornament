@@ -1,4 +1,4 @@
-# pov_ornament
+# Persistence of Vision Christmas Ornament
 A Persistence of Vision Christmas Ornament 
 
 ## Check out the video! - Click the Image
